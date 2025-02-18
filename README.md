@@ -18,3 +18,8 @@
 
 ### 📫 Connect with Me  
 [LinkedIn](www.linkedin.com/in/tinku-kohad-1a1367255) 
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kohadtinku&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
