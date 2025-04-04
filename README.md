@@ -7,7 +7,7 @@
 # Hi, I'm Tinku Kohad! 👋
 
 🚀 MERN Stack Developer | Full Stack Web Developer  
-💼 Working WidesoftTech Pvt Ltd 
+
 📚 Passionate about React, Node.js,Express.js, MongoDB, and UI/UX  
 
 ### 🛠️ Technologies & Tools  
