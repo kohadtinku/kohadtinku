@@ -23,7 +23,6 @@
 
 - 🎯 **MERN Stack Developer** passionate about building scalable web applications
 - 🔭 Currently working on **exciting full-stack projects**
-- 🌱 Learning **TypeScript, Docker & AWS**
 - 💡 Love to explore **new technologies & frameworks**
 - 🎨 Enthusiastic about **clean UI/UX design**
 - 📫 Reach me at: **tinkukohad05@gmail.com**
@@ -59,28 +58,8 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kohadtinku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kohadtinku&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
 
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohadtinku&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kohadtinku&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies">
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kohadtinku&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
-</p>
 
 ---
 
@@ -103,11 +82,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kohadtinku/kohadtinku/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</p>
 
 ---
 
